@@ -8,7 +8,7 @@ __author__ = "Anshita Saxena"
 __copyright__ = "(c) Copyright IBM 2020"
 __credits__ = ["BAT DMS IBM Team"]
 __email__ = "anshsa33@in.ibm.com"
-__status__ = "Development"
+__status__ = "Production"
 
 # Import the required libraries
 # Import the sys library to parse the arguments

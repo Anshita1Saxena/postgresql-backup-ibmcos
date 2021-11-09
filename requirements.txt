@@ -1,0 +1,4 @@
+configparser
+pandas
+ibm-cos-sdk
+psycopg2

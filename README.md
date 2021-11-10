@@ -56,5 +56,5 @@ All connection details, schema name and table name are modified to maintain conf
 IBM COS bucket after taking the PostgreSQL Backup:
 ![IBM COS Screenshot](https://github.com/Anshita1Saxena/postgresql-backup-ibmcos/blob/main/demo-image/IBM%20COS%20Screenshot.JPG)
 
-IBM COS bucket having Parquet Files:
+IBM COS bucket having Parquet Files stored in tag location based on year and month:
 ![IBM COS Screenshot Parquet](https://github.com/Anshita1Saxena/postgresql-backup-ibmcos/blob/main/demo-image/IBM%20COS%20Screenshot%20Parquet.JPG)

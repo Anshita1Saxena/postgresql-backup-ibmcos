@@ -7,7 +7,7 @@ and store it to IBM COS.
 __author__ = "Anshita Saxena"
 __copyright__ = "(c) Copyright IBM 2020"
 __credits__ = ["BAT DMS IBM Team"]
-__email__ = "anshsa33@in.ibm.com"
+__email__ = "anshita333saxena@gmail.com"
 __status__ = "Production"
 
 # Import the required libraries
